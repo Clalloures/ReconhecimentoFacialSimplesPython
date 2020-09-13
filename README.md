@@ -1,2 +1,1 @@
-# ReconhecimentoFacialSimplesPython
-OpenCV Reconhecimento Facial
+
